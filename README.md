@@ -12,7 +12,7 @@
  
 <img src="img/DocumentIcon.png" width="55px" align="center">
 
-```
+```bash
 mkdir -p ~/Developer/Unity_Versions
 # if installed version is 5.6.0p2...
 mv /Application/Unity ~/Developer/Unity_Versions/5.6.0p2

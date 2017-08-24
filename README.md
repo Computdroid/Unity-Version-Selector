@@ -1,6 +1,6 @@
 # Unity Version Selector
 
-<center><img src="img/Icon.png?raw=true" width="180px"></center>
+<img src="img/Icon.png" width="180px" align="center">
 
 ## Usage
 
@@ -10,7 +10,7 @@
 
 * Now, you can open the *.unityproj with double click!
  
-<center><img src="img/DocumentIcon.png?raw=true" width="55px"></center>
+<img src="img/DocumentIcon.png" width="55px" align="center">
 
 ```
 mkdir -p ~/Developer/Unity_Versions

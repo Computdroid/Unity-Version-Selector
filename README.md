@@ -1,6 +1,6 @@
 # Unity Version Selector
 
-<center><img src="img/Icon.tiff" width="180px"></center>
+<center><img src="img/Icon.tiff?raw=true" width="180px"></center>
 
 ## Usage
 
@@ -11,7 +11,7 @@
 * Now, you can open the *.unityproj with double click!
  
 
-<center><img src="img/DocumentIcon.tiff" width="55px"></center>
+<center><img src="img/DocumentIcon.tiff?raw=true" width="55px"></center>
 
 
 ```

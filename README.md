@@ -1,6 +1,6 @@
 # Unity Version Selector
 
-<center><img src="https://github.com/GeneralD/Unity-Version-Selector/blob/master/Unity%20Version%20Selector.app/Contents/Resources/Icon.icns?raw=true" width="180px"></center>
+<center><img src="img/Icon.tiff" width="180px"></center>
 
 ## Usage
 
@@ -11,7 +11,7 @@
 * Now, you can open the *.unityproj with double click!
  
 
-<center><img src="https://github.com/GeneralD/Unity-Version-Selector/blob/master/Unity%20Version%20Selector.app/Contents/Resources/DocumentIcon.icns?raw=true" width="55px"></center>
+<center><img src="img/DocumentIcon.tiff" width="55px"></center>
 
 
 ```
